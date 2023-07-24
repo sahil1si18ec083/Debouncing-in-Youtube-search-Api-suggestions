@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.search-suggestions {
+  background: #fff;
+  border: 1px solid black;
+  position: fixed;
+}
+.search-suggestions ul li {
+  list-style: none;
+}
+.flex {
+  display: flex;
+}
+.search {
+  height: 1.5rem;
+  width: 7rem;
+}
+.header {
+  align-items: center;
+}
